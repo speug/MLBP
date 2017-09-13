@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 u = [1] + 9*[0]
 v = [9/10, 1/10] + 8*[0]
